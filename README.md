@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Besher</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-- 🔭 I’m currently working as a **Freelancer**
+- 🔭 I’m currently studying computer science and do **Freelancing**
 
 - 🌱 I’m currently increasing my knowledge of **Java and Ruby on Rails**
-
-- 👨‍💻 All of my projects are available at [https://github.com/besher678?tab=repositories](https://github.com/besher678?tab=repositories)
 
 - 📫 How to reach me **besher034@gmail.com**
 
