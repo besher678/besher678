@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Besher</h1>
-<h3 align="center">A passionate Java developer</h3>
+<h3 align="center">A passionate Full-Stack Web developer</h3>
 
-- 🔭 I’m currently studying computer science and do **Freelancing**
+- 🔭 I’m currently do **Freelancing**
 
-- 🌱 I’m currently increasing my knowledge of **Java and Ruby on Rails**
+- 🌱 I’m currently increasing my knowledge of **JavaScript, Node.JS**
 
 - 📫 How to reach me **besher034@gmail.com**
 
