@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Besher</h1>
 <h3 align="center">A passionate Full-Stack Web developer</h3>
 
-- 🔭 I’m currently do **Freelancing**
+- 🔭 I currently do **Freelancing**
 
 - 🌱 I’m currently increasing my knowledge of **JavaScript, Node.JS**
 
